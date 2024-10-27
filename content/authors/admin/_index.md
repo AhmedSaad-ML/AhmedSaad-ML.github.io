@@ -35,7 +35,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/AhmedSaad-ML
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/engahmedmsaad/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Ybarm-AAAAAJ&hl=en
   - icon: academicons/orcid
