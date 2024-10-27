@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Ahmed Mohamed Saad Emam Saad (Ahmed Saad)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ' '
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ahmed Mohamed Saad Emam
+last_name: Saad
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,101 +20,133 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student, Research and Teaching Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Queen's University
+    url: https://www.queensu.ca/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:a.saad@queensu.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/AhmedSaad-ML
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=Ybarm-AAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-1211-8570
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AI-powered Cyber Security
+  - Trustworthy Machine Learning
+  - Explainable artificial intelligence (XAI)
+  - Deep Learning
+  - Deep Reinforcement Learning
+  - Data Privacy
+  - Cyber Security
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computing
+    institution: Queen's University, Canada
+    date_start: 2023-01-09
+    date_end: 2027-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      CGPA: 4.2/4.3
+      Working on AI-enabled Cybersecurity, Trustworthy Machine Learning, and Data Privacy. Supervised by [Prof Furkan Alaca](https://www.cs.queensu.ca/people/Furkan/Alaca).
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Our Lab'
+      url: 'https://www.csrl.info/'
+  - area: PhD Geospatial Computer Science
+    institution: Texas A&M University-Corpus Christi, USA
+    date_start: 2022-01-01
+    date_end: 2023-06-18
     summary: |
-      GPA: 3.8/4.0
+      - CGPA: 3.5/4.0
+      - Finished all program course requirements.
+      - Transferred to Queen's University, Canada.
+  - area: MSc Computer Engineering
+    institution: Atılım Üniversitesi, Türkiye
+    date_start: 2019-02-08
+    date_end: 2021-06-30
+    summary: |
+      - GPA: 3.86/4.0
+      - Worked on Deep Reinforcement Learning for Intrusion Detection. Supervised by [Prof Beytullah Yıldız](https://www.linkedin.com/in/beytullah-yildiz-a839a314/).
+    button:
+      text: 'MSc Thesis'
+      url: 'https://dspace7.atilim.edu.tr/items/fc94dde1-685c-45d9-acd2-51b338337a71'
+  - area: MSc Computer & Systems Sciences 
+    institution: Stockholm University, Sweden
+    date_start: 2020-01-09
+    date_end: 2020-07-31
+    summary: |
+      - I did part of my M.Sc. at Stockholm University in Sweden under the Erasmus program, supported by the [European Commission](https://erasmus-plus.ec.europa.eu/).
+  - area: BSc Computer & Systems Engineering
+    institution: Akhbar ElYom Academy, Egypt
+    date_start: 2009-09-09
+    date_end: 2014-06-20
+    summary: |
+      - CGPA: 81.66 / 100 or Very Good
+      - Final Year Grade: Distinction (92.2 / 100)
+      - Graduation Project: Hybrid Grid Computing
+      - Graduation Project Grade: Distinction
+      - Class Rank: 1st
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Graduate Research Assistant (USA-Onsite)
+    company_name: Texas A&M University - Corpus Christi 
+    company_url: 'https://www.tamucc.edu/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+    date_start: 2021-01-24
+    date_end: 2023-06-18
+  - position: Python Instructor (Women in Tech Program)
+    company_name: Paper Airplanes, Inc. (USA-Remote)
+    company_url: 'https://www.paper-airplanes.org/'
     company_logo: ''
-    date_start: 2016-01-01
+    date_start: 2021-10-02
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I volunteered as a remote instructor to teach an introductory course about Python (Programming Language). The program consisted of 10 weeks including 8 lessons, a final project, and a presentation. My students were women from areas affected by conflicts like Syria, Iraq, and Lebanon. The program aimed to equip conflict-affected women with digital skills for better career prospects.
+  - position: System Administrator
+    company_name: Rowifed Al Saadi Co. For Engineering & Construction (Saudi Arabia-Onsite)
+    company_logo: ''
+    date_start: 2017-02-19
+    date_end: 2019-01-30
+    summary: |
+      I managed the IT infrastructure, including servers, hardware, and software, ensuring proper functionality.
+  - position: System Administrator
+    company_name: Bana Medical Center (Saudi Arabia-Onsite)
+    company_logo: ''
+    date_start: 2016-01-02
+    date_end: 2017-02-16
+    summary: |
+      I led technicians in building network infrastructure, installed network devices, administered Windows Server 2008, and trained staff on DBMS and ERP systems.
+  - position: Sales Engineer
+    company_name: Ez AlMawared Trading Co. (Saudi Arabia-Onsite)
+    company_logo: ''
+    date_start: 2016-01-02
+    date_end: 2017-02-16
+    summary: |
+      I provided technical support to customers, explained technical aspects of products, and prepared quotations.
+  - position: IT Support Engineer
+    company_name: Telecom Egypt (Egypt-Onsite)
+    company_logo: ''
+    date_start: 2014-07-04
+    date_end: 2017-12-20
+    summary: |
+      I provided technical support to customers, resolved issues, and guided the technical team.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -124,6 +156,71 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+      - name: OpenAI Gym
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Deep Learning
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: PyTorch
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Data Analytics
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Data Visualisation
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Exploratory Data Analysis (EDA)
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Graph Neural Network
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: PyTorch Geometric
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Secure Muli-party Computation (SMPC)
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: CrypTen
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Machine Learning
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: LaTeX
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Matlab
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: XML and XPath
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Jupyter Notebook
+        description: ''
+        percent: 100
+        icon: circle-stack
+      - name: Git
+        description: ''
+        percent: 90
+        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -142,45 +239,55 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Arabic
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 95
+  - name: Turkish
+    percent: 40
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: 2nd place for the best presentation
+    url: https://www.tamucc.edu/news/2023/03/033023-islanders-victorious-at-tamus-pathways-student-research-symposium.php
+    date: '2023-02-28'
+    awarder: 18th Annual TAMUS Pathways Student Research Symposium
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      I won the 2nd place for the best oral presentation for the Doctoral level in the Engineering and Computer Science category across all Texas A&M system universities.
+  - title: Conrad Blucher Institute for Surveying and Science Scholarship
     date: '2023-07-01'
-    awarder: edX
+    awarder: Conrad Blucher Institute for Surveying and Science (CBI)
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+      I received this scholarship along with a $500 award from the Conrad Blucher Institute for Surveying and Science for outstanding academic achievements.
+  - title: Success Scholarship Program
+    url: https://www.turkiyeburslari.gov.tr/shorttermprograms
+    date: '2021-01-02'
+    awarder: Türkiye Scholarships (Türkiye Burslari)
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I received a merit-based scholarship for outstanding academic performance as an international student at a Turkish university. The scholarship provided a monthly stipend of 600 TL for one year during my master's studies.
+  - title: Erasmus+ Mobility Program
+    url: https://erasmus-plus.ec.europa.eu/
+    date: '2019-12-30'
+    awarder: European Commission
+    icon: datacamp
+    summary: |
+      I was accepted into the Erasmus Mobility program to spend one semester at Stockholm University in Sweden. The program covered tuition fees and provided a monthly stipend of 500 EUR.
+  - title: Merit Based Tuition Waiver Scholarship
+    url: https://www.atilim.edu.tr/en
+    date: '2021-01-02'
+    awarder: Atılım Üniversitesi
+    icon: datacamp
+    summary: |
+      I received a tuition fee waiver from Atilim University for my master's degree admission due to outstanding academic performance during my bachelor's degree.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Trustworthy ML, Data Privacy, and AI-powered cybersecurity researcher, online educational platform founder, certified translator, and podcast host, I aim to inspire and drive improvement. I am constantly seeking opportunities to advance and learn from other intellects, recognizing that it is through the minds of geniuses that we rediscover our neglected thoughts [Ralph Waldo].
+
+With a passion for innovation and growth, I strive to make meaningful contributions in the fields of AI-enabled cybersecurity, Data Privacy, Trustworthy and robust ML, education, and communication. Together, let us embark on a journey of exploration and enlightenment, leveraging knowledge to shape a brighter future.
+
