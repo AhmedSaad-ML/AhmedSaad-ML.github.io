@@ -97,8 +97,8 @@ education:
       - Class Rank: 1st
 
 work:
-  - position: Graduate Research Assistant (USA-Onsite)
-    company_name: Texas A&M University - Corpus Christi 
+  - position: Graduate Research Assistant
+    company_name: Texas A&M University - Corpus Christi (USA-Onsite)
     company_url: 'https://www.tamucc.edu/'
     company_logo: ''
     date_start: 2021-01-24
