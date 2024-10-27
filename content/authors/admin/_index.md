@@ -75,8 +75,8 @@ education:
     summary: |
       - GPA: 3.86/4.0
       - Worked on Deep Reinforcement Learning for Intrusion Detection. Supervised by <a href="https://www.linkedin.com/in/beytullah-yildiz-a839a314" target="_blank">Prof Beytullah Yıldız</a>.
-    button:
-      text: 'MSc Thesis'
+    button: 
+      text: 'View MSc Thesis'
       url: 'https://dspace7.atilim.edu.tr/items/fc94dde1-685c-45d9-acd2-51b338337a71'
   - area: MSc Computer & Systems Sciences 
     institution: Stockholm University, Sweden
