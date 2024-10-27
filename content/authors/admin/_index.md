@@ -57,8 +57,8 @@ education:
     date_end: 2027-12-31
     summary: |
       CGPA: 4.2/4.3
-      Working on AI-enabled Cybersecurity, Trustworthy Machine Learning, and Data Privacy. Supervised by Prof. [Furkan Alaca](https://www.cs.queensu.ca/people/Furkan/Alaca).
-    button:
+      Working on AI-enabled Cybersecurity, Trustworthy Machine Learning, and Data Privacy. Advised by Prof. <a href="https://www.cs.queensu.ca/people/Furkan/Alaca" target="_blank">Furkan Alaca</a>.
+    button: 
       text: 'Our Lab'
       url: 'https://www.csrl.info/'
   - area: PhD Geospatial Computer Science
@@ -75,7 +75,7 @@ education:
     date_end: 2021-06-30
     summary: |
       - GPA: 3.86/4.0
-      - Worked on Deep Reinforcement Learning for Intrusion Detection. Supervised by Prof. <a href="https://www.linkedin.com/in/beytullah-yildiz-a839a314" target="_blank">Beytullah Yıldız</a>.
+      - Worked on Deep Reinforcement Learning for Intrusion Detection. Advised by Prof. <a href="https://www.linkedin.com/in/beytullah-yildiz-a839a314" target="_blank">Beytullah Yıldız</a>.
     button: 
       text: 'View MSc Thesis'
       url: 'https://dspace7.atilim.edu.tr/items/fc94dde1-685c-45d9-acd2-51b338337a71'
@@ -84,7 +84,7 @@ education:
     date_start: 2020-01-09
     date_end: 2020-07-31
     summary: |
-      - I did part of my M.Sc. at Stockholm University in Sweden under the Erasmus program, supported by the [European Commission](https://erasmus-plus.ec.europa.eu/).
+      - I did part of my M.Sc. at Stockholm University in Sweden under the Erasmus program, supported by the <a href="https://erasmus-plus.ec.europa.eu/" target="_blank">European Commission</a>.
   - area: BSc Computer & Systems Engineering
     institution: Akhbar ElYom Academy, Egypt
     date_start: 2009-09-09
