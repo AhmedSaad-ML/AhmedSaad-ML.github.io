@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ahmed Mohamed Saad Emam Saad (Ahmed Saad)
+title: Ahmed Saad
 
 # Name pronunciation (optional)
 name_pronunciation: ' '
