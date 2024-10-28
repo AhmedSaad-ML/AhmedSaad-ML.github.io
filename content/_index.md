@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Show CV
-        url: /static/CV_Saad.pdf
+        url: static/CV_Saad.pdf
     design:
       css_class: dark
       background:
