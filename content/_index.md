@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Show CV
+        url: uploads/CV_Saad.pdf
     design:
       css_class: dark
       background:
@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a researcher specializing in Trustworthy ML, Data Privacy, and AI-powered cybersecurity. My work aims to enhance the reliability and security of AI systems, making them more resilient and transparent.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I focus on advancing robust machine learning techniques and implementing innovative approaches to secure data privacy. Through my research, I seek to address emerging threats and ensure AI technologies are both ethical and secure, contributing to a safer digital future.
         
         Please reach out to collaborate 😃
     design:
