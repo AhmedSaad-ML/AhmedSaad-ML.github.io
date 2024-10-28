@@ -26,4 +26,8 @@ abstract: Guarding the cyberinfrastructure is critical to ensure the proper tran
   approach. The results show our proposed GNN solution’s ability to generalize to
   unseen botnets and perform better compared to other relevant work from the literature
   with an accuracy that exceeds 94%.
+links:
+- name: Custom Link
+  url: https://link.springer.com/chapter/10.1007/978-3-031-50920-9_11
+url_pdf: GNN_Chapter_Author_Copy_(Please Keep Private).pdf
 ---
