@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Show CV
-        url: AhmedSaad-ML.github.io/static/CV_Saad.pdf
+        url: /static/CV_Saad.pdf
     design:
       css_class: dark
       background:
