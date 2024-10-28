@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -101,7 +101,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [-2, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
