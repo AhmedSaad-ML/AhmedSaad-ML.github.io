@@ -24,9 +24,9 @@ removePathAccents: true
 build:
   writeStats: true
 enableGitInfo: false
-summaryLength: 30
+summaryLength: 20
 pagination:
-  pagerSize: 10
+  pagerSize: 5
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -39,7 +39,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 80
+  quality: 150
   anchor: smart
 timeout: 600000
 taxonomies:
