@@ -10,26 +10,25 @@ design:
 
 sections:
   - block: resume-biography-3
+
     content:
-
-  # Choose a user profile to display (a folder name within `content/authors/`)
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
       text: ""
 
-  # Show a call-to-action button under your biography? (optional)
+      # Show a call-to-action button under your biography? (optional)
       button:
         text: Show CV
         url: /CV_Saad.pdf
 
     design:
       css_class: ""
-      inline_css: |  # Add inline CSS directly here
-        height: 1000x;        /* Increase the block height */
-        width: 200%;          /* Make the block fill full width */
-        display: flex;        /* Center content vertically and horizontally */
-        align-items: center;
-        justify-content: center;
+      custom_style: |
+        height: 700px;        /* Set a taller block height */
+        width: 100%;          /* Ensure full-width */
+        background-size: cover;  /* Make the background image cover the whole area */
+        background-position: center; /* Center the background */
+        background-repeat: no-repeat; /* Avoid repeating the image */
 
     background:
       color: black
@@ -37,7 +36,7 @@ sections:
         filename: your-image-file.jpg  # Replace with your actual image filename
       filters:
         brightness: 1.0
-      size: contain  # Adjust to cover the container while maintaining aspect ratio
+      size: cover  # Force the image to cover the block area
       position: center
       parallax: false
   - block: markdown
