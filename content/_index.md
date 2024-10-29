@@ -25,8 +25,8 @@ sections:
     design:
       css_class: ""
       inline_css: |  # Add inline CSS directly here
-        height: 700px;        /* Increase the block height */
-        width: 150%;          /* Make the block fill full width */
+        height: 1000x;        /* Increase the block height */
+        width: 200%;          /* Make the block fill full width */
         display: flex;        /* Center content vertically and horizontally */
         align-items: center;
         justify-content: center;
