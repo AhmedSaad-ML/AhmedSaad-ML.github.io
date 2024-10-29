@@ -11,35 +11,25 @@ design:
 sections:
   - block: resume-biography-3
     content:
-
-  # Choose a user profile to display (a folder name within `content/authors/`)
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
       text: ""
-
-  # Show a call-to-action button under your biography? (optional)
+      # Show a call-to-action button under your biography? (optional)
       button:
         text: Show CV
         url: /CV_Saad.pdf
-
     design:
-      css_class: ""
-      inline_css: |  # Add inline CSS directly here
-        height: 500px;        /* Increase the block height */
-        width: 100%;          /* Make the block fill full width */
-        display: flex;        /* Center content vertically and horizontally */
-        align-items: center;
-        justify-content: center;
-
-    background:
-      color: black
-      image:
-        filename: your-image-file.jpg  # Replace with your actual image filename
-      filters:
-        brightness: 1.0
-      size: contain  # Adjust to cover the container while maintaining aspect ratio
-      position: center
-      parallax: false
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename:
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
