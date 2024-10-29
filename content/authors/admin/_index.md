@@ -56,8 +56,9 @@ education:
     date_start: 2023-01-09
     date_end: 2027-12-31
     summary: |
-      CGPA: 4.2/4.3
-      Working on AI-enabled Cybersecurity, Trustworthy Machine Learning, and Data Privacy. Advised by Prof. <a href="https://www.cs.queensu.ca/people/Furkan/Alaca" target="_blank">Furkan Alaca</a>.
+      - CGPA: 4.2/4.3
+      - Working on AI-enabled Cybersecurity, Trustworthy Machine Learning, and Data Privacy. 
+      - Advised by Prof. <a href="https://www.cs.queensu.ca/people/Furkan/Alaca" target="_blank">Furkan Alaca</a>.
     button: 
       text: 'Our Lab'
       url: 'https://www.csrl.info/'
@@ -75,7 +76,8 @@ education:
     date_end: 2021-06-30
     summary: |
       - GPA: 3.86/4.0
-      - Worked on Deep Reinforcement Learning for Intrusion Detection. Advised by Prof. <a href="https://www.linkedin.com/in/beytullah-yildiz-a839a314" target="_blank">Beytullah Yıldız</a>.
+      - Worked on Deep Reinforcement Learning for Intrusion Detection. 
+      - Advised by Prof. <a href="https://www.linkedin.com/in/beytullah-yildiz-a839a314" target="_blank">Beytullah Yıldız</a>.
     button: 
       text: 'View MSc Thesis'
       url: 'https://dspace7.atilim.edu.tr/items/fc94dde1-685c-45d9-acd2-51b338337a71'
