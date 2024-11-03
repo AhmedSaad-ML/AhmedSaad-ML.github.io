@@ -150,39 +150,39 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: devicon-python-plain
+        icon: devicon/python-plain
       - name: Data Science
         description: ''
         percent: 100
-        icon: devicon-jupyter-plain
+        icon: devicon/jupyter-original
       - name: SQL
         description: ''
         percent: 40
-        icon: devicon-mysql-plain
+        icon: devicon/mysql-plain
       - name: OpenAI Gym
         description: ''
         percent: 90
-        icon: devicon-tensorflow-original
+        icon: devicon/tensorflow-original
       - name: Deep Learning
         description: ''
         percent: 90
-        icon: devicon-tensorflow-original
+        icon: devicon/tensorflow-original
       - name: PyTorch
         description: ''
         percent: 90
-        icon: devicon-pytorch-plain
+        icon: devicon/pytorch-original
       - name: Data Analytics
         description: ''
         percent: 90
-        icon: devicon-google-analytics-plain
+        icon: devicon/google-analytics-original
       - name: Data Visualization
         description: ''
         percent: 90
-        icon: devicon-graphql-plain
+        icon: devicon/graphql-plain
       - name: Exploratory Data Analysis (EDA)
         description: ''
         percent: 90
-        icon: devicon-jupyter-plain
+        icon: devicon/jupyter-original
 
   - name: Technical Skills Cont.
     columns: 3
@@ -190,43 +190,40 @@ skills:
       - name: Graph Neural Network
         description: ''
         percent: 90
-        icon: devicon-networking-plain
+        icon: devicon/networking-plain
       - name: PyTorch Geometric
         description: ''
         percent: 90
-        icon: devicon-pytorch-plain
+        icon: devicon/pytorch-original
       - name: Secure Multi-party Computation (SMPC)
         description: ''
         percent: 90
-        icon: devicon-lock-plain
+        icon: devicon/lock-plain
       - name: CrypTen
         description: ''
         percent: 90
-        icon: devicon-shield-plain
+        icon: devicon/shield-plain
       - name: Machine Learning
         description: ''
         percent: 90
-        icon: devicon-robotics-plain
+        icon: devicon/robotics-plain
       - name: LaTeX
         description: ''
         percent: 90
-        icon: devicon-latex-original
+        icon: devicon/latex-original
       - name: Matlab
         description: ''
         percent: 90
-        icon: devicon-matlab-plain
+        icon: devicon/matlab-plain
       - name: XML and XPath
         description: ''
         percent: 90
-        icon: devicon-xml-plain
-      - name: Jupyter Notebook
-        description: ''
-        percent: 100
-        icon: devicon-jupyter-plain
+        icon: devicon/xml-plain
       - name: Git
         description: ''
         percent: 90
-        icon: devicon-git-plain
+        icon: devicon/git-plain
+
 
   - name: Hobbies
     color: '#eeac02'
