@@ -147,86 +147,85 @@ skills:
   - name: Technical Skills
     columns: 3
     items:
-      - name: Python
+- name: Python
         description: ''
         percent: 100
-        emoji: '🐍'
+        icon: devicon-python-plain
       - name: Data Science
         description: ''
         percent: 100
-        emoji: '📊'
+        icon: devicon-jupyter-plain
       - name: SQL
         description: ''
         percent: 40
-        emoji: '🗄️'
+        icon: devicon-mysql-plain
       - name: OpenAI Gym
         description: ''
         percent: 90
-        emoji: '🤖'
+        icon: devicon-tensorflow-original
       - name: Deep Learning
         description: ''
         percent: 90
-        emoji: '🧠'
+        icon: devicon-tensorflow-original
       - name: PyTorch
         description: ''
         percent: 90
-        emoji: '🔥'
+        icon: devicon-pytorch-plain
       - name: Data Analytics
         description: ''
         percent: 90
-        emoji: '📈'
+        icon: devicon-google-analytics-plain
       - name: Data Visualization
         description: ''
         percent: 90
-        emoji: '📊'
+        icon: devicon-graphql-plain
       - name: Exploratory Data Analysis (EDA)
         description: ''
         percent: 90
-        emoji: '🔍'
+        icon: devicon-jupyter-plain
   - name: Technical Skills Cont.
     columns: 3
     items:
       - name: Graph Neural Network
         description: ''
         percent: 90
-        emoji: '🌐'
+        icon: devicon-networking-plain
       - name: PyTorch Geometric
         description: ''
         percent: 90
-        emoji: '🔷'
+        icon: devicon-pytorch-plain
       - name: Secure Multi-party Computation (SMPC)
         description: ''
         percent: 90
-        emoji: '🔒'
+        icon: devicon-lock-plain
       - name: CrypTen
         description: ''
         percent: 90
-        emoji: '🛡️'
+        icon: devicon-shield-plain
       - name: Machine Learning
         description: ''
         percent: 90
-        emoji: '🤖'
+        icon: devicon-robotics-plain
       - name: LaTeX
         description: ''
         percent: 90
-        emoji: '📄'
+        icon: devicon-latex-original
       - name: Matlab
         description: ''
         percent: 90
-        emoji: '🧮'
+        icon: devicon-matlab-plain
       - name: XML and XPath
         description: ''
         percent: 90
-        emoji: '💻'
+        icon: devicon-xml-plain
       - name: Jupyter Notebook
         description: ''
         percent: 100
-        emoji: '📓'
+        icon: devicon-jupyter-plain
       - name: Git
         description: ''
         percent: 90
-        emoji: '🌿'
-
+        icon: devicon-git-plain
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
