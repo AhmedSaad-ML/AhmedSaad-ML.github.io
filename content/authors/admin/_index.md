@@ -143,40 +143,86 @@ work:
       I provided technical support to customers, resolved issues, and guided the technical team.
 
 # Skills
-<h2>Skills</h2>
-  <div style="display: flex; justify-content: space-around;">
-    <!-- Column 1 -->
-    <div>
-      <ul>
-        <li><i class="fas fa-code"></i> Python - 100%</li>
-        <li><i class="fas fa-chart-bar"></i> Data Science - 100%</li>
-        <li><i class="fas fa-database"></i> SQL - 40%</li>
-        <li><i class="fas fa-robot"></i> OpenAI Gym - 90%</li>
-        <li><i class="fas fa-brain"></i> Deep Learning - 90%</li>
-        <li><i class="fas fa-fire"></i> PyTorch - 90%</li>
-        <li><i class="fas fa-chart-line"></i> Data Analytics - 90%</li>
-        <li><i class="fas fa-chart-pie"></i> Data Visualization - 90%</li>
-        <li><i class="fas fa-chart-line"></i> Exploratory Data Analysis (EDA) - 90%</li>
-        <li><i class="fas fa-project-diagram"></i> Graph Neural Network - 90%</li>
-      </ul>
-    </div>
-
-    <!-- Column 2 -->
-    <div>
-      <ul>
-        <li><i class="fas fa-cubes"></i> PyTorch Geometric - 90%</li>
-        <li><i class="fas fa-lock"></i> Secure Multi-party Computation (SMPC) - 90%</li>
-        <li><i class="fas fa-shield-alt"></i> CrypTen - 90%</li>
-        <li><i class="fas fa-robot"></i> Machine Learning - 90%</li>
-        <li><i class="fas fa-file-alt"></i> LaTeX - 90%</li>
-        <li><i class="fas fa-calculator"></i> Matlab - 90%</li>
-        <li><i class="fas fa-code-branch"></i> XML and XPath - 90%</li>
-        <li><i class="fas fa-book"></i> Jupyter Notebook - 100%</li>
-        <li><i class="fas fa-code-branch"></i> Git - 90%</li>
-      </ul>
-    </div>
-  </div>
-
+skills:
+  - name: Technical Skills
+    columns: 3
+    items:
+      - name: Python
+        description: ''
+        percent: 100
+        icon: fa-python
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: fa-chart-line
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: fa-database
+      - name: OpenAI Gym
+        description: ''
+        percent: 90
+        icon: fa-robot
+      - name: Deep Learning
+        description: ''
+        percent: 90
+        icon: fa-brain
+      - name: PyTorch
+        description: ''
+        percent: 90
+        icon: fa-fire
+      - name: Data Analytics
+        description: ''
+        percent: 90
+        icon: fa-chart-bar
+      - name: Data Visualisation
+        description: ''
+        percent: 90
+        icon: fa-chart-pie
+      - name: Exploratory Data Analysis (EDA)
+        description: ''
+        percent: 90
+        icon: fa-chart-line
+      - name: Graph Neural Network
+        description: ''
+        percent: 90
+        icon: fa-project-diagram
+      - name: PyTorch Geometric
+        description: ''
+        percent: 90
+        icon: fa-cubes
+      - name: Secure Multi-party Computation (SMPC)
+        description: ''
+        percent: 90
+        icon: fa-lock
+      - name: CrypTen
+        description: ''
+        percent: 90
+        icon: fa-shield-alt
+      - name: Machine Learning
+        description: ''
+        percent: 90
+        icon: fa-robot
+      - name: LaTeX
+        description: ''
+        percent: 90
+        icon: fa-file-alt
+      - name: Matlab
+        description: ''
+        percent: 90
+        icon: fa-square-root-alt
+      - name: XML and XPath
+        description: ''
+        percent: 90
+        icon: fa-code
+      - name: Jupyter Notebook
+        description: ''
+        percent: 100
+        icon: fa-book
+      - name: Git
+        description: ''
+        percent: 90
+        icon: fa-code-branch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
