@@ -150,79 +150,83 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: fa-python
+        emoji: '🐍'
       - name: Data Science
         description: ''
         percent: 100
-        icon: fa-chart-line
+        emoji: '📊'
       - name: SQL
         description: ''
         percent: 40
-        icon: fa-database
+        emoji: '🗄️'
       - name: OpenAI Gym
         description: ''
         percent: 90
-        icon: fa-robot
+        emoji: '🤖'
       - name: Deep Learning
         description: ''
         percent: 90
-        icon: fa-brain
+        emoji: '🧠'
       - name: PyTorch
         description: ''
         percent: 90
-        icon: fa-fire
+        emoji: '🔥'
       - name: Data Analytics
         description: ''
         percent: 90
-        icon: fa-chart-bar
-      - name: Data Visualisation
+        emoji: '📈'
+      - name: Data Visualization
         description: ''
         percent: 90
-        icon: fa-chart-pie
+        emoji: '📊'
       - name: Exploratory Data Analysis (EDA)
         description: ''
         percent: 90
-        icon: fa-chart-line
+        emoji: '🔍'
+  - name: Technical Skills Cont.
+    columns: 3
+    items:
       - name: Graph Neural Network
         description: ''
         percent: 90
-        icon: fa-project-diagram
+        emoji: '🌐'
       - name: PyTorch Geometric
         description: ''
         percent: 90
-        icon: fa-cubes
+        emoji: '🔷'
       - name: Secure Multi-party Computation (SMPC)
         description: ''
         percent: 90
-        icon: fa-lock
+        emoji: '🔒'
       - name: CrypTen
         description: ''
         percent: 90
-        icon: fa-shield-alt
+        emoji: '🛡️'
       - name: Machine Learning
         description: ''
         percent: 90
-        icon: fa-robot
+        emoji: '🤖'
       - name: LaTeX
         description: ''
         percent: 90
-        icon: fa-file-alt
+        emoji: '📄'
       - name: Matlab
         description: ''
         percent: 90
-        icon: fa-square-root-alt
+        emoji: '🧮'
       - name: XML and XPath
         description: ''
         percent: 90
-        icon: fa-code
+        emoji: '💻'
       - name: Jupyter Notebook
         description: ''
         percent: 100
-        icon: fa-book
+        emoji: '📓'
       - name: Git
         description: ''
         percent: 90
-        icon: fa-code-branch
+        emoji: '🌿'
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
