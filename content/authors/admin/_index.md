@@ -146,6 +146,9 @@ work:
 skills:
   - name: Technical Skills
     columns: 3
+skills:
+  - name: Technical Skills
+    columns: 3
     items:
       - name: Python
         description: ''
@@ -174,7 +177,7 @@ skills:
       - name: Data Analytics
         description: ''
         percent: 90
-        icon: devicon/google-analytics-original
+        icon: devicon/googleanalytics-original
       - name: Data Visualization
         description: ''
         percent: 90
@@ -223,7 +226,6 @@ skills:
         description: ''
         percent: 90
         icon: devicon/git-plain
-
 
   - name: Hobbies
     color: '#eeac02'
