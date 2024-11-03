@@ -100,7 +100,7 @@ education:
 
 work:
   - position: Graduate Research Assistant
-    company_name: Texas A&M University - Corpus Christi (USA-Onsite)
+    company_name: Texas A&M University-Corpus Christi (USA-Onsite)
     company_url: 'https://www.tamucc.edu/'
     company_logo: ''
     date_start: 2021-01-24
@@ -145,6 +145,7 @@ work:
 # Skills
 skills:
   - name: Technical Skills
+    columns: 2
     items:
       - name: Python
         description: ''
@@ -157,72 +158,71 @@ skills:
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: database
       - name: OpenAI Gym
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: robot
       - name: Deep Learning
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: brain
       - name: PyTorch
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: fire
       - name: Data Analytics
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: chart-bar
       - name: Data Visualisation
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: chart-pie
       - name: Exploratory Data Analysis (EDA)
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: chart-line
       - name: Graph Neural Network
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: network-wired
       - name: PyTorch Geometric
         description: ''
         percent: 90
-        icon: circle-stack
-      - name: Secure Muli-party Computation (SMPC)
+        icon: shapes
+      - name: Secure Multi-party Computation (SMPC)
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: lock
       - name: CrypTen
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: shield
       - name: Machine Learning
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: robot
       - name: LaTeX
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: file-alt
       - name: Matlab
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: code
       - name: XML and XPath
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: code-branch
       - name: Jupyter Notebook
         description: ''
         percent: 100
-        icon: circle-stack
+        icon: book
       - name: Git
         description: ''
         percent: 90
-        icon: circle-stack
-
+        icon: code-branch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
