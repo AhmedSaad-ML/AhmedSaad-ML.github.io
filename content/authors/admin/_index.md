@@ -143,86 +143,89 @@ work:
       I provided technical support to customers, resolved issues, and guided the technical team.
 
 # Skills
+# Skills
 skills:
   - name: Technical Skills
-    columns: 2
     items:
-      - name: Python
-        description: ''
-        percent: 100
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-      - name: OpenAI Gym
-        description: ''
-        percent: 90
-        icon: robot
-      - name: Deep Learning
-        description: ''
-        percent: 90
-        icon: brain
-      - name: PyTorch
-        description: ''
-        percent: 90
-        icon: fire
-      - name: Data Analytics
-        description: ''
-        percent: 90
-        icon: chart-bar
-      - name: Data Visualisation
-        description: ''
-        percent: 90
-        icon: chart-pie
-      - name: Exploratory Data Analysis (EDA)
-        description: ''
-        percent: 90
-        icon: chart-line
-      - name: Graph Neural Network
-        description: ''
-        percent: 90
-        icon: network-wired
-      - name: PyTorch Geometric
-        description: ''
-        percent: 90
-        icon: shapes
-      - name: Secure Multi-party Computation (SMPC)
-        description: ''
-        percent: 90
-        icon: lock
-      - name: CrypTen
-        description: ''
-        percent: 90
-        icon: shield
-      - name: Machine Learning
-        description: ''
-        percent: 90
-        icon: robot
-      - name: LaTeX
-        description: ''
-        percent: 90
-        icon: file-alt
-      - name: Matlab
-        description: ''
-        percent: 90
-        icon: code
-      - name: XML and XPath
-        description: ''
-        percent: 90
-        icon: code-branch
-      - name: Jupyter Notebook
-        description: ''
-        percent: 100
-        icon: book
-      - name: Git
-        description: ''
-        percent: 90
-        icon: code-branch
+      - column1:
+          - name: Python
+            description: ''
+            percent: 100
+            icon: fa-code
+          - name: Data Science
+            description: ''
+            percent: 100
+            icon: fa-chart-bar
+          - name: SQL
+            description: ''
+            percent: 40
+            icon: fa-database
+          - name: OpenAI Gym
+            description: ''
+            percent: 90
+            icon: fa-robot
+          - name: Deep Learning
+            description: ''
+            percent: 90
+            icon: fa-brain
+          - name: PyTorch
+            description: ''
+            percent: 90
+            icon: fa-fire
+          - name: Data Analytics
+            description: ''
+            percent: 90
+            icon: fa-chart-line
+          - name: Data Visualisation
+            description: ''
+            percent: 90
+            icon: fa-chart-pie
+          - name: Exploratory Data Analysis (EDA)
+            description: ''
+            percent: 90
+            icon: fa-chart-line
+          - name: Graph Neural Network
+            description: ''
+            percent: 90
+            icon: fa-project-diagram
+      - column2:
+          - name: PyTorch Geometric
+            description: ''
+            percent: 90
+            icon: fa-cubes
+          - name: Secure Multi-party Computation (SMPC)
+            description: ''
+            percent: 90
+            icon: fa-lock
+          - name: CrypTen
+            description: ''
+            percent: 90
+            icon: fa-shield-alt
+          - name: Machine Learning
+            description: ''
+            percent: 90
+            icon: fa-robot
+          - name: LaTeX
+            description: ''
+            percent: 90
+            icon: fa-file-alt
+          - name: Matlab
+            description: ''
+            percent: 90
+            icon: fa-calculator
+          - name: XML and XPath
+            description: ''
+            percent: 90
+            icon: fa-code-branch
+          - name: Jupyter Notebook
+            description: ''
+            percent: 100
+            icon: fa-book
+          - name: Git
+            description: ''
+            percent: 90
+            icon: fa-code-branch
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
