@@ -147,7 +147,7 @@ skills:
   - name: Technical Skills
     columns: 3
     items:
-- name: Python
+      - name: Python
         description: ''
         percent: 100
         icon: devicon-python-plain
@@ -183,6 +183,7 @@ skills:
         description: ''
         percent: 90
         icon: devicon-jupyter-plain
+
   - name: Technical Skills Cont.
     columns: 3
     items:
@@ -226,6 +227,7 @@ skills:
         description: ''
         percent: 90
         icon: devicon-git-plain
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
