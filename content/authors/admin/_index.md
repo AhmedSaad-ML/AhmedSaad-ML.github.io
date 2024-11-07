@@ -186,9 +186,12 @@ skills:
         description: ''
         percent: 90
         icon: devicon/jupyter-original
+      - name: Machine Learning
+        description: ''
+        percent: 90
+        icon: devicon/robotics-plain
 
   - name: Technical Skills Cont.
-    columns: 3
     items:
       - name: Graph Neural Network
         description: ''
@@ -206,10 +209,6 @@ skills:
         description: ''
         percent: 90
         icon: devicon/shield-plain
-      - name: Machine Learning
-        description: ''
-        percent: 90
-        icon: devicon/robotics-plain
       - name: LaTeX
         description: ''
         percent: 90
@@ -226,6 +225,9 @@ skills:
         description: ''
         percent: 90
         icon: devicon/git-plain
+    design:
+      view: article-list
+      columns: 2
 
   - name: Hobbies
     color: '#eeac02'
@@ -250,7 +252,7 @@ languages:
   - name: English
     percent: 95
   - name: Turkish
-    percent: 40
+    percent: 20
 
 # Awards
 awards:
