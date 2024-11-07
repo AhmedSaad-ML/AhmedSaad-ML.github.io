@@ -39,18 +39,6 @@ sections:
       size: cover  # Force the image to cover the block area
       position: center
       parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I'm a researcher specializing in Trustworthy ML, Data Privacy, and AI-powered cybersecurity. My work aims to enhance the reliability and security of AI systems, making them more resilient and transparent.
-
-        I focus on advancing robust machine learning techniques and implementing innovative approaches to secure data privacy. Through my research, I seek to address emerging threats and ensure AI technologies are both ethical and secure, contributing to a safer digital future.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
   - block: collection
     content:
       title: Publications

@@ -146,88 +146,68 @@ work:
 skills:
   - name: Technical Skills
     columns: 3
-skills:
-  - name: Technical Skills
-    columns: 3
     items:
       - name: Python
-        description: ''
         percent: 100
-        icon: devicon/python-plain
+        icon: 'fab fa-python'
       - name: Data Science
-        description: ''
         percent: 100
-        icon: devicon/jupyter-original
+        icon: 'fas fa-chart-line'
       - name: SQL
-        description: ''
         percent: 40
-        icon: devicon/mysql-plain
+        icon: 'fas fa-database'
       - name: OpenAI Gym
-        description: ''
         percent: 90
-        icon: devicon/tensorflow-original
+        icon: 'fas fa-robot'
       - name: Deep Learning
-        description: ''
         percent: 90
-        icon: devicon/tensorflow-original
+        icon: 'fas fa-brain'
       - name: PyTorch
-        description: ''
         percent: 90
-        icon: devicon/pytorch-original
+        icon: 'fas fa-fire'
       - name: Data Analytics
-        description: ''
         percent: 90
-        icon: devicon/googleanalytics-original
+        icon: 'fas fa-chart-pie'
       - name: Data Visualization
-        description: ''
         percent: 90
-        icon: devicon/graphql-plain
+        icon: 'fas fa-chart-bar'
       - name: Exploratory Data Analysis (EDA)
-        description: ''
         percent: 90
-        icon: devicon/jupyter-original
+        icon: 'fas fa-search'
       - name: Machine Learning
-        description: ''
         percent: 90
-        icon: devicon/robotics-plain
+        icon: 'fas fa-cogs'
 
   - name: Technical Skills Cont.
-    items:
-      - name: Graph Neural Network
-        description: ''
-        percent: 90
-        icon: devicon/networking-plain
-      - name: PyTorch Geometric
-        description: ''
-        percent: 90
-        icon: devicon/pytorch-original
-      - name: Secure Multi-party Computation (SMPC)
-        description: ''
-        percent: 90
-        icon: devicon/lock-plain
-      - name: CrypTen
-        description: ''
-        percent: 90
-        icon: devicon/shield-plain
-      - name: LaTeX
-        description: ''
-        percent: 90
-        icon: devicon/latex-original
-      - name: Matlab
-        description: ''
-        percent: 90
-        icon: devicon/matlab-plain
-      - name: XML and XPath
-        description: ''
-        percent: 90
-        icon: devicon/xml-plain
-      - name: Git
-        description: ''
-        percent: 90
-        icon: devicon/git-plain
     design:
       view: article-list
       columns: 2
+    items:
+      - name: Graph Neural Network
+        percent: 90
+        icon: 'fas fa-project-diagram'
+      - name: PyTorch Geometric
+        percent: 90
+        icon: 'fas fa-shapes'
+      - name: Secure Multi-party Computation (SMPC)
+        percent: 90
+        icon: 'fas fa-lock'
+      - name: CrypTen
+        percent: 90
+        icon: 'fas fa-shield-alt'
+      - name: LaTeX
+        percent: 90
+        icon: 'fas fa-file-code'
+      - name: Matlab
+        percent: 90
+        icon: 'fas fa-square-root-alt'
+      - name: XML and XPath
+        percent: 90
+        icon: 'fas fa-code'
+      - name: Git
+        percent: 90
+        icon: 'fab fa-git-alt'
+
 
   - name: Hobbies
     color: '#eeac02'
