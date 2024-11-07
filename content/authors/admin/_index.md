@@ -150,27 +150,27 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: devicon/python-plain
+        icon: icons/python-plain
       - name: Data Science
         description: ''
         percent: 100
-        icon: devicon/jupyter-original
+        icon: icons/jupyter-original
       - name: SQL
         description: ''
         percent: 40
-        icon: devicon/mysql-plain
+        icon: icons/mysql-plain
       - name: OpenAI Gym
         description: ''
         percent: 90
-        icon: devicon/tensorflow-original
+        icon: icons/tensorflow-original
       - name: Deep Learning
         description: ''
         percent: 90
-        icon: devicon/tensorflow-original
+        icon: icons/tensorflow-original
       - name: PyTorch
         description: ''
         percent: 90
-        icon: devicon/pytorch-original
+        icon: icons/pytorch-original
       - name: Data Analytics
         description: ''
         percent: 90
@@ -194,23 +194,23 @@ skills:
       - name: Graph Neural Network
         description: ''
         percent: 90
-        icon: devicon/networking-plain
+        icon: devicons/networking-plain
       - name: PyTorch Geometric
         description: ''
         percent: 90
-        icon: devicon/pytorch-original
+        icon: devicons/pytorch-original
       - name: Secure Multi-party Computation (SMPC)
         description: ''
         percent: 90
-        icon: devicon/lock-plain
+        icon: devicons/lock-plain
       - name: CrypTen
         description: ''
         percent: 90
-        icon: devicon/shield-plain
+        icon: devicons/shield-plain
       - name: LaTeX
         description: ''
         percent: 90
-        icon: devicon/latex-original
+        icon: devicons/latex-original
       - name: Matlab
         description: ''
         percent: 90
@@ -226,9 +226,6 @@ skills:
     design:
       view: article-list
       columns: 2
-
-
-
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
