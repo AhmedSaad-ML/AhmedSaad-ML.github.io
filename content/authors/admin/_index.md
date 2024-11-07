@@ -145,84 +145,80 @@ work:
 # Skills
 skills:
   - name: Technical Skills
-    columns: 3
+    columns: 2
     items:
       - name: Python
         description: ''
         percent: 100
-        icon: icons/python-plain
+        icon: brands/python
       - name: Data Science
         description: ''
         percent: 100
-        icon: icons/jupyter-original
+        icon: brands/kaggle  # Proxy for Data Science
       - name: SQL
         description: ''
         percent: 40
-        icon: icons/mysql-plain
+        icon: brands/microsoft  # Using Microsoft for SQL Server
       - name: OpenAI Gym
         description: ''
         percent: 90
-        icon: icons/tensorflow-original
+        icon: brands/openai
       - name: Deep Learning
         description: ''
         percent: 90
-        icon: icons/tensorflow-original
+        icon: academicons/arxiv  # Proxy icon
       - name: PyTorch
         description: ''
         percent: 90
-        icon: icons/pytorch-original
+        icon: brands/pytorch
       - name: Data Analytics
         description: ''
         percent: 90
-        icon: devicon/googleanalytics-original
+        icon: brands/google
       - name: Data Visualization
         description: ''
         percent: 90
-        icon: devicon/graphql-plain
+        icon: brands/tableau
       - name: Exploratory Data Analysis (EDA)
         description: ''
         percent: 90
-        icon: devicon/jupyter-original
+        icon: brands/jupyter
       - name: Machine Learning
         description: ''
         percent: 90
-        icon: devicon/robotics-plain
-
-  - name: Technical Skills Cont.
-    columns: 3
-    items:
+        icon: brands/aws  # Using AWS for ML services
       - name: Graph Neural Network
         description: ''
         percent: 90
-        icon: devicons/networking-plain
+        icon: brands/network-wired  # Hypothetical example
       - name: PyTorch Geometric
         description: ''
         percent: 90
-        icon: devicons/pytorch-original
+        icon: brands/pytorch
       - name: Secure Multi-party Computation (SMPC)
         description: ''
         percent: 90
-        icon: devicons/lock-plain
+        icon: brands/lock
       - name: CrypTen
         description: ''
         percent: 90
-        icon: devicons/shield-plain
+        icon: brands/keycdn  # Proxy icon
       - name: LaTeX
         description: ''
         percent: 90
-        icon: devicons/latex-original
+        icon: academicons/latex
       - name: Matlab
         description: ''
         percent: 90
-        icon: devicon/matlab-plain
+        icon: academicons/matlab
       - name: XML and XPath
         description: ''
         percent: 90
-        icon: devicon/xml-plain
+        icon: brands/w3c
       - name: Git
         description: ''
         percent: 90
-        icon: devicon/git-plain
+        icon: brands/git
     design:
       view: article-list
       columns: 2
@@ -257,34 +253,34 @@ awards:
     url: https://www.tamucc.edu/news/2023/03/033023-islanders-victorious-at-tamus-pathways-student-research-symposium.php
     date: '2023-02-28'
     awarder: 18th Annual TAMUS Pathways Student Research Symposium
-    icon: coursera
+    icon: trophy
     summary: |
       I won the 2nd place for the best oral presentation for the Doctoral level in the Engineering and Computer Science category across all Texas A&M system universities.
   - title: Conrad Blucher Institute for Surveying and Science Scholarship
     date: '2023-07-01'
     awarder: Conrad Blucher Institute for Surveying and Science (CBI)
-    icon: edx
+    icon: trophy
     summary: |
       I received this scholarship along with a $500 award from the Conrad Blucher Institute for Surveying and Science for outstanding academic achievements.
   - title: Success Scholarship Program
     url: https://www.turkiyeburslari.gov.tr/shorttermprograms
     date: '2021-01-02'
     awarder: Türkiye Scholarships (Türkiye Burslari)
-    icon: datacamp
+    icon: award
     summary: |
       I received a merit-based scholarship for outstanding academic performance as an international student at a Turkish university. The scholarship provided a monthly stipend of 600 TL for one year during my master's studies.
   - title: Erasmus+ Mobility Program
     url: https://erasmus-plus.ec.europa.eu/
     date: '2019-12-30'
     awarder: European Commission
-    icon: datacamp
+    icon: award
     summary: |
       I was accepted into the Erasmus Mobility program to spend one semester at Stockholm University in Sweden. The program covered tuition fees and provided a monthly stipend of 500 EUR.
   - title: Merit Based Tuition Waiver Scholarship
     url: https://www.atilim.edu.tr/en
     date: '2021-01-02'
     awarder: Atılım Üniversitesi
-    icon: datacamp
+    icon: award
     summary: |
       I received a tuition fee waiver from Atilim University for my master's degree admission due to outstanding academic performance during my bachelor's degree.
 
