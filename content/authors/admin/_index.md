@@ -154,7 +154,7 @@ skills:
       - name: Data Science
         description: ''
         percent: 100
-        icon: brands/kaggle  # Proxy for Data Science
+        icon: heroicons/chart-bar  # Proxy for Data Science
       - name: SQL
         description: ''
         percent: 40
