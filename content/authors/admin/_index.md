@@ -57,11 +57,11 @@ education:
     date_end: 2027-12-31
     summary: |
       - CGPA: 4.2/4.3
-      - Working on AI-enabled Cybersecurity, Trustworthy Machine Learning, and Data Privacy. 
-      - Advised by Prof. <a href="https://www.cs.queensu.ca/people/Furkan/Alaca" target="_blank">Furkan Alaca</a>.
-    button: 
-      text: 'Our Lab'
-      url: 'https://www.csrl.info/'
+      - Working on AI-powered Cybersecurity, Trustworthy Machine Learning, and Data Privacy. 
+      - Advised by Prof. <a href="https://www.cs.queensu.ca/people/Rongxing/Lu" target="_blank">Rongxing Lu</a>.
+    #button: 
+      #text: 'Our Lab'
+      #url: 'https://www.csrl.info/'
   - area: PhD Geospatial Computer Science
     institution: Texas A&M University-Corpus Christi, USA
     date_start: 2022-01-01
