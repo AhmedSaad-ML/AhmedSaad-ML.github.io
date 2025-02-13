@@ -59,9 +59,6 @@ education:
       - CGPA: 4.2/4.3
       - Working on AI-powered Cybersecurity, Trustworthy Machine Learning, and Data Privacy. 
       - Advised by Prof. <a href="https://www.cs.queensu.ca/people/Rongxing/Lu" target="_blank">Rongxing Lu</a>.
-    #button: 
-      #text: 'Our Lab'
-      #url: 'https://www.csrl.info/'
   - area: PhD Geospatial Computer Science
     institution: Texas A&M University-Corpus Christi, USA
     date_start: 2022-01-01
