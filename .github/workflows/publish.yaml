@@ -51,6 +51,7 @@ jobs:
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
+        PATH: ${{ github.workspace }}/node_modules/.bin:${{ env.PATH }}
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
