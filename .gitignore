@@ -1,0 +1,20 @@
+# Hugo build artifacts
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+assets/jsconfig.json
+
+# Node modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.log
