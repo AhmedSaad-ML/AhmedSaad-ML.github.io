@@ -7,7 +7,8 @@ date: '2023-01-01'
 publishDate: '2024-10-27T06:11:42.689937Z'
 publication_types:
 - paper-conference
-publication: '*Springer Nature LNNS*'doi: 10.1007/978-3-031-27099-4_18
+publication: '*Springer Nature LNNS series*'
+doi:oi1007/978-3-031-27099-4_18
 abstract: Network-based technologies such as cloud computing, web services, and Internet
   of Things systems are becoming widely used due to their flexibility and preeminence.
   On the other hand, the exponential proliferation of network-based technologies exacerbated
