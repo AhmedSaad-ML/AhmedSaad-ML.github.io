@@ -8,13 +8,13 @@ main:
     url: /
     weight: 10
   - name: Publications
-    url: /#publication
+    url: https://ahmedsaad-ml.github.io/#publication
     weight: 11
   - name: News
     url: https://ahmedsaad-ml.github.io/#news
     weight: 13
   - name: Education & Work
-      url: https://ahmedsaad-ml.github.io/#experience
+    url: https://ahmedsaad-ml.github.io/#experience
     weight: 20
   - name: Projects
     url: projects/
