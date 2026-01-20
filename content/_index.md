@@ -9,8 +9,7 @@ design:
   spacing: "4rem"
 
 sections:
-  - block: about.biography
-    content:
+  - block: v1/about    content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
