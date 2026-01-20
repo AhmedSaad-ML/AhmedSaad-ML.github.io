@@ -11,10 +11,10 @@ main:
     url: /#publication
     weight: 11
   - name: News
-    url: /#news
+    url: https://ahmedsaad-ml.github.io/#news
     weight: 13
   - name: Experience
-    url: experience/
+    url: https://ahmedsaad-ml.github.io/#experience
     weight: 20
   - name: Projects
     url: projects/
