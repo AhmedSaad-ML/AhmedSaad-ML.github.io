@@ -79,45 +79,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: [-2, 0, 0, 0]
-
-  - block: experience
-    id: experience
-    content:
-      title: Education & Work
-      subtitle: ''
-      text: ''
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      items:
-        - title: PhD Student, Research and Teaching Assistant
-          company: Queen's University
-          company_url: 'https://www.queensu.ca/'
-          company_logo: ''
-          location: Kingston, Ontario, Canada
-          date_start: '2023-09-01'
-          date_end: ''
-          description: Research in Explainable AI, Federated Learning, and Privacy-Preserving Machine Learning.              R
-        - title: PhD Geospatial Computer Science
-          company: Texas A&M University-Corpus Christi
-          company_url: 'https://www.tamucc.edu/'
-          company_logo: ''
-          location: Corpus Christi, Texas, USA
-          date_start: '2020-01-01'
-          date_end: '2023-08-31'
-          description: ''
-        - title: MSc Computer Engineering
-          company: Atılım Üniversitesi
-          company_url: 'https://www.atilim.edu.tr/'
-          company_logo: ''
-          location: Ankara, Türkiye
-          date_start: '2018-01-01'
-          date_end: '2020-12-31'
-          description: ''
-    design:
-      columns: '1'
-      view: date-title-summary
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
