@@ -98,8 +98,7 @@ sections:
           location: Kingston, Ontario, Canada
           date_start: '2023-09-01'
           date_end: ''
-          description: |
-              Research in Explainable AI, Federated Learning, and Privacy-Preserving Machine Learning.
+          description: Research in Explainable AI, Federated Learning, and Privacy-Preserving Machine Learning.              R
         - title: PhD Geospatial Computer Science
           company: Texas A&M University-Corpus Christi
           company_url: 'https://www.tamucc.edu/'
