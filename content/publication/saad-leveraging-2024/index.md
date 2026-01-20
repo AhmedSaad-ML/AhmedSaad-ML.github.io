@@ -6,8 +6,7 @@ date: '2024-01-01'
 publishDate: '2024-10-27T06:11:42.716339Z'
 publication_types:
 - paper-conference
-publication: '*Advanced Engineering, Technology and Applications*'
-doi: 10.1007/978-3-031-50920-9_11
+publication: '*Springer Nature LNNS*'doi: 10.1007/978-3-031-50920-9_11
 abstract: Guarding the cyberinfrastructure is critical to ensure the proper transmission
   and availability of computer network services, information, and data. The proliferation
   in the number of cyber attacks launched on the cyberinfrastructure by making data
