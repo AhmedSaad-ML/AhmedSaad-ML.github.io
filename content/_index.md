@@ -48,7 +48,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
-    design:
+      design:
       view: citation
   - block: collection
     id: news
