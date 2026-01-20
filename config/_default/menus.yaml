@@ -14,8 +14,8 @@ main:
     url: https://ahmedsaad-ml.github.io/#news
     weight: 13
   - name: Education & Work
-    url: /experience
-        weight: 20
+    url: /experienc
+      weight: 20
   - name: Projects
     url: projects/
     weight: 30
