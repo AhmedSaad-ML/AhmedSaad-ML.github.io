@@ -80,7 +80,7 @@ sections:
       spacing:
         padding: [-2, 0, 0, 0]
 
-      - block: experience
+    - block: experience
     id: experience
     content:
       title: Education & Work
