@@ -8,7 +8,8 @@ main:
     url: /
     weight: 10
   - name: Publications
-    url: /publication/    weight: 11
+    url: /publication/  
+        weight: 11
   - name: News
     url: https://ahmedsaad-ml.github.io/#news
     weight: 13
