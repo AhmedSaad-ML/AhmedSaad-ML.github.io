@@ -40,7 +40,7 @@ sections:
       position: center
       parallax: false
   - block: collection
-  -     id: publication
+      id: publication
     content:
       title: Publications
       text: ""
