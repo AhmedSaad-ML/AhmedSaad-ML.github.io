@@ -11,8 +11,7 @@ doi: "10.48550/arXiv.2412.00687"
 publishDate: "2024-12-01T00:00:00Z"
 
 publication_types:
-- article
-
+- manuscript
 publication: "*38th Conference on Neural Information Processing Systems (NeurIPS 2024) - MusIML Workshop*"
 publication_short: "NeurIPS 2024 - MusIML Workshop"
 
