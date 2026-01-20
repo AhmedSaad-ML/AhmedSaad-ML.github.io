@@ -40,17 +40,6 @@ sections:
       position: center
       parallax: false
   - block: collection
-    id: publication
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-        design:
-      view: citation
-  - block: collection
     id: news
     content:
       title: Recent News
