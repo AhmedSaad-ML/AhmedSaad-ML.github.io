@@ -1,7 +1,7 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+#  To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#    desired widget in your `content/home/` folder.
+#  The weight parameter defines the order that the links will appear in.
 
 main:
   - name: Bio
@@ -14,7 +14,7 @@ main:
     url: https://ahmedsaad-ml.github.io/#news
     weight: 13
   - name: Education & Work
-  url: https://ahmedsaad-ml.github.io/#experience
+    url: https://ahmedsaad-ml.github.io/#experience
     weight: 20
   - name: Projects
     url: projects/
